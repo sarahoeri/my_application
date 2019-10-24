@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M Tech</string>
+    <string name="sign_up">New Customer Sign Up</string>
+    <string name="about_app">Save Accident details
+                             If you have been in an accident, save important details and access them easily</string>
+    <string name="existing_account">Already have an account?</string>
+    <string name="button">LOGIN</string>
+</resources>
